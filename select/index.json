@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Superman",
+  "base_artist": "Eminem",
+  "createdAt": "2025-12-08T10:50:31.524982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Superman",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/01_Superman_Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O Superman - Live at the Phoenix Festival, Long Marston, 20th July, 1997",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_O_Superman_-_Live_at_the_Phoenix_Festival,_Long_Marston,_20th_July,_1997_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shine (Waiting for \"Superman\" Version)",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/03_Shine_(Waiting_for__Superman__Version)_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shine (Waiting For \"Superman\" Version) (iTunes Bonus Track)",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/04_Shine_(Waiting_For__Superman__Version)_(iTunes_Bonus_Track)_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superman",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_Superman_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O Superman (For Massenet)",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/06_O_Superman_(For_Massenet)_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Superman",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/07_My_Superman_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Superman (feat. Simon Thornton)",
+      "artist": "Brighton Port Authority",
+      "has_synced": false,
+      "path": "select/08_Superman_(feat._Simon_Thornton)_Brighton_Port_Authority.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Superman",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/09_Superman_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/10_SUPER_SAIYAN_SUPERMAN___ZUPER_ZA1YAN_ZUPERMAN_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Superman Tonight",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_Superman_Tonight_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Superman",
+      "artist": "Eminem feat. Dina Rae",
+      "has_synced": true,
+      "path": "select/12_Superman_Eminem_feat._Dina_Rae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Superman (Feat. Dina Rae)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/13_Superman_(Feat._Dina_Rae)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waitin' for a Superman",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/14_Waitin'_for_a_Superman_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Superman",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Superman_Eminem.txt"
+    }
+  ]
+}
